@@ -1,6 +1,3 @@
-/**
- * Created by eric on 3/9/17.
- */
 public interface ButtonHandler {
 
     void onButtonPush(int floorNumber, Direction direction);
